@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1701434123 source:c:\users\diego\onedrive\documents\estructura de datos\proyect8puzzle\main.cpp
+	"cabereca.h"
+
+1701438806 c:\users\diego\onedrive\documents\estructura de datos\proyect8puzzle\cabereca.h
+	<iostream>
+	<time.h>
+
